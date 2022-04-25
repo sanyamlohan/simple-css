@@ -1,0 +1,30 @@
+body {
+    background-color: #066163;
+}
+
+hr{
+    border-style:none;
+    border-bottom-style:dotted;
+    border-width:10px;
+    border-color: blue;
+}
+
+h1{
+    color: hsl(184, 85%, 59%);
+}
+
+h3:hover{
+    color: purple;       /* see the magic take cursor on h3 in chrome */
+}
+
+.first{
+    color: #40ef75;          /* heading h3 type */
+}
+
+.second{
+    color: hsl(61, 85%, 59%);        /* heading h3 type */
+}
+
+h4{
+    color: #40DFEF;
+}
